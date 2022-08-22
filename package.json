@@ -1,0 +1,7 @@
+{
+  "name": "gcf-chrome",
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "sh ./test.sh"
+  }
+}
